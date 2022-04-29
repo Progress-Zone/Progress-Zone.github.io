@@ -2,4 +2,4 @@ git actualiser :
 
 git add .
 git commit -m "((la modification))
-git push -u origin
+git push -u origin main
